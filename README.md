@@ -11,7 +11,7 @@ https://github.com/PrzybyszB/Scheduler
 
 My "side-quest goal" is to program 20h per week
 
-## PLANS TO SELF DEVELOP 💡
+<h1 align="center">PLANS TO SELF DEVELOP 💡</h1>
 <img src="https://github.com/PrzybyszB/PrzybyszB/blob/main/Me1.png" align="right" width="300" alt="Your Image Description">
 <li>Build job WebScrapper</li>
 <li>Build Docker</li>
