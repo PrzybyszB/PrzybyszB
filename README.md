@@ -3,7 +3,7 @@
 <p align="justify">My interest in programming began in 2022. I started with Python and with friends we started project named Lamprey. That was a hard project for me, begginer. </p>
 <p align="justify">Since February 2024 I’ve been dedicating all my free time to improving my programming skills and building personal projects.</p>
 <p align="justify">Although I haven’t pursued a formal degree, I actively study computer science theory because I believe it's the foundation of strong software development.</p>
-<p"justify"><b>MY GOAL: TO BECOME A FULL-TIME PYTHON DEVELOPER</b></p>
+<p align="justify"><b>MY GOAL: TO BECOME A FULL-TIME PYTHON DEVELOPER</b></p>
 
 
 <b>Check my new repository</b>
@@ -11,7 +11,7 @@ https://github.com/PrzybyszB/Scheduler
 <img src="https://raw.githubusercontent.com/PrzybyszB/PrzybyszB/refs/heads/main/assets_task_01jv2qsp4se4jvej4df0npep0h_1747070141_img_0.webp" align="right" width="300" alt="Your Image Description" style="border-radius: 15px; display: block;">
 My "side-quest goal" is to program 20h per week
 
-<h1 align="center">PLANS TO SELF DEVELOP 💡</h1>
+>PLANS TO SELF DEVELOP 💡
 
 <li>Build job WebScrapper</li>
 <li>Build Docker</li>
