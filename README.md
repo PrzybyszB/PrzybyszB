@@ -8,10 +8,10 @@
 
 <b>Check my new repository</b>
 https://github.com/PrzybyszB/Scheduler
-<img src="https://raw.githubusercontent.com/PrzybyszB/PrzybyszB/refs/heads/main/assets_task_01jv2qsp4se4jvej4df0npep0h_1747070141_img_0.webp" align="right" width="300" alt="Your Image Description" style="border-radius: 15px; display: block;">
+<img src="https://github.com/PrzybyszB/PrzybyszB/blob/main/Me1.png" align="right" width="300" alt="Your Image Description"">
 My "side-quest goal" is to program 20h per week
 
->PLANS TO SELF DEVELOP 💡
+<h1 align="center">PLANS TO SELF DEVELOP 💡</h1>
 
 <li>Build job WebScrapper</li>
 <li>Build Docker</li>
