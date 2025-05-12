@@ -1,5 +1,4 @@
 <h1 id="header" align="center">## Hi there 👋</h1>
-<h2 align="center">About me</h2>
 <p align="justify">Hello, my name it's Bartek and I'm self taught begginer programmer</p>
 <p align="justify">My interest in programming began in 2022. I started with Python and with friends we started project named Lamprey. That was a hard project for me, begginer. </p>
 <p align="justify">Since February 2024 I’ve been dedicating all my free time to improving my programming skills and building personal projects.</p>
@@ -16,7 +15,7 @@ My "side-quest goal" is to program 20h per week
 <li>Build job WebScrapper</li>
 <li>Build Docker</li>
 <li>Improve Scheduler</li>
-  
+ </br> 
 📚 In the meantime its theory time: 
 1. I’m currently learning about LLM
 
