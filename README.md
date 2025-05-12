@@ -1,4 +1,4 @@
-<h1 id="header" align="center">## Hi there 👋</h1>h1>
+<h1 id="header" align="center">## Hi there 👋</h1>
 <h2 align="center">About me</h2>
 <p align="justify">Hello, my name it's Bartek and I'm self taught begginer programmer</p>
 <p align="justify">My interest in programming began in 2022. I started with Python and with friends we started project named Lamprey. That was a hard project for me, begginer. </p>
