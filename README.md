@@ -4,7 +4,6 @@
 <p align="justify">My interest in programming began in 2022. I started with Python and with friends we started project named Lamprey. That was a hard project for me, begginer. </p>
 <p align="justify">Since February 2024 I’ve been dedicating all my free time to improving my programming skills and building personal projects.</p>
 <p align="justify">Although I haven’t pursued a formal degree, I actively study computer science theory because I believe it's the foundation of strong software development./p>
-<p align="justify">My notes based on a wide range of sources https://docs.google.com/document/d/e/2PACX-1vTCV8zzuNF4Va_nwdb39jJkH8yQ0eLnoGGpQMmfj-FFOhKxcGRgv_tYJOhDX1ZPvuMb7hk8IqoJUmP7/pub</p>
 <p align="justify"><b>MY GOAL: TO BECOME A FULL-TIME PYTHON DEVELOPER</b></p>
 
 <b>Check my new repository</b>
