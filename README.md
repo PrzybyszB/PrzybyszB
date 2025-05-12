@@ -8,7 +8,7 @@
 
 <b>Check my new repository</b>
 https://github.com/PrzybyszB/Scheduler
-<img src="https://github.com/PrzybyszB/PrzybyszB/blob/main/Me1.png" align="right" width="300" alt="Your Image Description"">
+<img src="https://github.com/PrzybyszB/PrzybyszB/blob/main/Me1.png" align="right" width="300" alt="Your Image Description">
 My "side-quest goal" is to program 20h per week
 
 <h1 align="center">PLANS TO SELF DEVELOP 💡</h1>
