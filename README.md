@@ -21,9 +21,8 @@ My "side-quest goal" is to program 20h per week
 <p>1. I’m currently learning about LLM</p> 
 
 My notes based on a wide range of sources https://docs.google.com/document/d/e/2PACX-1vTCV8zzuNF4Va_nwdb39jJkH8yQ0eLnoGGpQMmfj-FFOhKxcGRgv_tYJOhDX1ZPvuMb7hk8IqoJUmP7/pub
-
-
-
+<p></p> 
+<p></p> 
 <h2>Hobby</h2>
 <li>🖥️ Programming, it's just full of pleasure (🐛)</li>
 <li>⚔️ RPG games, both board and computer. I don't play as much as I used to, but I still love playing games in my spare-time.</li>
