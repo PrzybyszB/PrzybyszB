@@ -15,11 +15,8 @@ My "side-quest goal" is to program 20h per week
 <li>Build job WebScrapper</li>
 <li>Build Docker</li>
 <li>Improve Scheduler</li>
-</br>
-📚 In the meantime its theory time: 
-</br>
-1. I’m currently learning about LLM
-</br>
+<p>📚 In the meantime its theory time:</p> 
+<p>1. I’m currently learning about LLM</p> 
 
 My notes based on a wide range of sources https://docs.google.com/document/d/e/2PACX-1vTCV8zzuNF4Va_nwdb39jJkH8yQ0eLnoGGpQMmfj-FFOhKxcGRgv_tYJOhDX1ZPvuMb7hk8IqoJUmP7/pub
 
