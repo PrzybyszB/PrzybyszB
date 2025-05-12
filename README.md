@@ -12,25 +12,23 @@ https://github.com/PrzybyszB/Scheduler
 My "side-quest goal" is to program 20h per week
 
 <h1 align="center">PLANS TO SELF DEVELOP 💡</h1>
-<li>
-1. Build job WebScrapper
-2. Build Docker
-3. Improve Scheduler
-</li>
 
+<li>1. Build job WebScrapper</li>
+<li>2. Build Docker</li>
+<li>3. Improve Scheduler</li>
+  
 📚 In the meantime its theory time: 
 1. I’m currently learning about LLM
 
 My notes based on a wide range of sources https://docs.google.com/document/d/e/2PACX-1vTCV8zzuNF4Va_nwdb39jJkH8yQ0eLnoGGpQMmfj-FFOhKxcGRgv_tYJOhDX1ZPvuMb7hk8IqoJUmP7/pub
 
 <h2>Hobby</h2>
-<li>
-1. 🖥️ Programming, it's just full of pleasure (🐛)
-2. ⚔️ RPG games, both board and computer. I don't play as much as I used to, but I still love playing games in my spare-time.
-3. 🔪 Cooking, good food give you good mood. To stay in a good shape and continue developing myself, organism needs proper nutrition.
-4. 🏋️ Sport activities. To build strong mind u need also do regular acitvities.
-5. 📖 Fantasy book like Wiedźmin, Warcraft Legends, and Kraina Martwej Ziemii.
-</li>
+<li>1. 🖥️ Programming, it's just full of pleasure (🐛)</li>
+<li>2. ⚔️ RPG games, both board and computer. I don't play as much as I used to, but I still love playing games in my spare-time.</li>
+<li>3. 🔪 Cooking, good food give you good mood. To stay in a good shape and continue developing myself, organism needs proper nutrition.</li>
+<li>4. 🏋️ Sport activities. To build strong mind u need also do regular acitvities.</li>
+<li>5. 📖 Fantasy book like Wiedźmin, Warcraft Legends, and Kraina Martwej Ziemii.</li>
+
 
 
 <!--
