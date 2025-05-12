@@ -8,11 +8,11 @@
 
 <b>Check my new repository</b>
 https://github.com/PrzybyszB/Scheduler
-<img src="https://github.com/PrzybyszB/PrzybyszB/blob/main/Me1.png" align="right" width="300" alt="Your Image Description">
+
 My "side-quest goal" is to program 20h per week
 
 <h1 align="center">PLANS TO SELF DEVELOP 💡</h1>
-
+<img src="https://github.com/PrzybyszB/PrzybyszB/blob/main/Me1.png" align="right" width="300" alt="Your Image Description">
 <li>Build job WebScrapper</li>
 <li>Build Docker</li>
 <li>Improve Scheduler</li>
@@ -21,7 +21,6 @@ My "side-quest goal" is to program 20h per week
 <p>1. I’m currently learning about LLM</p> 
 
 My notes based on a wide range of sources https://docs.google.com/document/d/e/2PACX-1vTCV8zzuNF4Va_nwdb39jJkH8yQ0eLnoGGpQMmfj-FFOhKxcGRgv_tYJOhDX1ZPvuMb7hk8IqoJUmP7/pub
-<h3>asdasdsaasdsad </h3>
 <h2>Hobby</h2>
 <li>🖥️ Programming, it's just full of pleasure (🐛)</li>
 <li>⚔️ RPG games, both board and computer. I don't play as much as I used to, but I still love playing games in my spare-time.</li>
