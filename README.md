@@ -1,5 +1,5 @@
 <h1 id="header" align="center">## Hi there 👋</h1>
-<p align="justify">Hello, my name it's Bartek and I'm self taught begginer programmer</p>
+<p align="justify">Hello, my name it's Bartek and I'm self taught beginner programmer</p>
 <p align="justify">My interest in programming began in 2022. I started with Python and with friends we started project named Lamprey. That was a hard project for me, begginer. </p>
 <p align="justify">Since February 2024 I’ve been dedicating all my free time to improving my programming skills and building personal projects.</p>
 <p align="justify">Although I haven’t pursued a formal degree, I actively study computer science theory because I believe it's the foundation of strong software development.</p>
@@ -25,7 +25,7 @@ My notes based on a wide range of sources https://docs.google.com/document/d/e/2
 <li>🖥️ Programming, it's just full of pleasure (🐛)</li>
 <li>⚔️ RPG games, both board and computer. I don't play as much as I used to, but I still love playing games in my spare-time.</li>
 <li>🔪 Cooking, good food give you good mood. To stay in a good shape and continue developing myself, organism needs proper nutrition.</li>
-<li>🏋️ Sport activities. To build strong mind u need also do regular acitvities.</li>
+<li>🏋️ Sport activities. To build strong mind you need also do regular acitvities.</li>
 <li>📖 Fantasy book like Wiedźmin, Warcraft Legends, and Kraina Martwej Ziemii.</li>
 
 
