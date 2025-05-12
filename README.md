@@ -5,10 +5,10 @@
 <p align="justify">Although I haven’t pursued a formal degree, I actively study computer science theory because I believe it's the foundation of strong software development.</p>
 <p align="justify"><b>MY GOAL: TO BECOME A FULL-TIME PYTHON DEVELOPER</b></p>
 
-<img align="right" ![Alt text describing the image](assets_task_01jv2qsp4se4jvej4df0npep0h_1747070141_img_0.webp) width="40%">
+
 <b>Check my new repository</b>
 https://github.com/PrzybyszB/Scheduler
-
+<img src="https://github.com/your-username/your-repo-name/blob/main/path-to-your-image.jpg" align="right" width="300" alt="Your Image Description">
 My "side-quest goal" is to program 20h per week
 
 <h1 align="center">PLANS TO SELF DEVELOP 💡</h1>
