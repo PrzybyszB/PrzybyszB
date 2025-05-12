@@ -5,6 +5,7 @@
 <p align="justify">Although I haven’t pursued a formal degree, I actively study computer science theory because I believe it's the foundation of strong software development.</p>
 <p align="justify"><b>MY GOAL: TO BECOME A FULL-TIME PYTHON DEVELOPER</b></p>
 
+![Alt text describing the image](assets_task_01jv2qsp4se4jvej4df0npep0h_1747070141_img_0.webp)
 <b>Check my new repository</b>
 https://github.com/PrzybyszB/Scheduler
 
