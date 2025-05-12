@@ -1,4 +1,5 @@
 ## Hi there 👋
+<h2 align="center">About me</h2>
 Plan for how I intend to improve and become better developer. 
 1. Learning about FastAPI and OLTP
 2. Build job WebScraper
