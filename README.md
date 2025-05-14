@@ -18,11 +18,11 @@ My "side-quest goal" is to program 24h per week
 <li>Improve Scheduler</li>
 <p></p>
 
-<h3 align="center">What I have done ✔️(Personal Changelog)</h3>
-<p>Polishing theory fundamental in computer science and programming 02.2025-05.2025</p> 
-<p>First site with Django named Scheduler 05.2024-02.2025</p> 
-<p>First site with Flask named SklepZoo 02.2024-05.2024</p> 
-<p>Many tutorials on youtube like BroCode, Codemy, HarvardCS50 07.2023-02.2024</p> 
+<h3>What I have done ✔️(Personal Changelog)</h3>
+<li>Polishing theory fundamental in computer science and programming 02.2025-05.2025</li>
+<li>First site with Django named Scheduler 05.2024-02.2025</li> 
+<li>First site with Flask named SklepZoo 02.2024-05.2024</li> 
+<li>Many tutorials on youtube like BroCode, Codemy, HarvardCS50 07.2023-02.2024</li> 
 
 <p>📚 In the meantime its theory time:</p> 
 <p>1. I’m currently learning about LLM</p> 
