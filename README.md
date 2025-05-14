@@ -19,15 +19,15 @@ My "side-quest goal" is to program 24h per week
 <p></p>
 
 <h3>What I have done ✔️(Personal Changelog)</h3>
-<li>Polishing theory fundamental in computer science and programming   02.2025 - 05.2025</li>
-<li>First site with Django named Scheduler                             05.2024 - 02.2025</li> 
-<li>First site with Flask named SklepZoo                               02.2024 - 05.2024</li> 
-<li>Many tutorials on youtube like BroCode, Codemy, HarvardCS50        07.2023 -02.2024</li> 
+<li>Polishing theory fundamental in computer science and programming 02.2025 - 05.2025</li>
+<li>First site with Django named Scheduler 05.2024 - 02.2025</li> 
+<li>First site with Flask named SklepZoo 02.2024 - 05.2024</li> 
+<li>Many tutorials on youtube like BroCode, Codemy, HarvardCS50 07.2023 -02.2024</li> 
 <p></p>
 <p>📚 In the meantime its theory time:</p> 
 <p>1. I’m currently learning about LLM</p> 
 
-My notes based on a wide range of sources https://docs.google.com/document/d/e/2PACX-1vTCV8zzuNF4Va_nwdb39jJkH8yQ0eLnoGGpQMmfj-FFOhKxcGRgv_tYJOhDX1ZPvuMb7hk8IqoJUmP7/pub
+My notes based on a wide range of sources https://incredible-wasabi-771.notion.site/Programowanie-Teoria-1f3b80a2c0a480d099afe6f7eb6806fb
 
 <h2>Hobby</h2>
 <li>🖥️ Programming, it's just full of pleasure (🐛)</li>
