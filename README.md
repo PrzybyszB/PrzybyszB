@@ -18,7 +18,7 @@ My "side-quest goal" is to program 24h per week
 <li>Improve Scheduler</li>
 <p></p>
 
-<h1 align="center">WHAT I HAVE DONE ✔️(Personal Changelog)</h1>
+<h3 align="center">What I have done ✔️(Personal Changelog)</h3>
 <p>Polishing theory fundamental in computer science and programming 02.2025-05.2025</p> 
 <p>First site with Django named Scheduler 05.2024-02.2025</p> 
 <p>First site with Flask named SklepZoo 02.2024-05.2024</p> 
