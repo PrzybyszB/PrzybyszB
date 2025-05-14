@@ -1,5 +1,5 @@
 <h1 id="header" align="center">## Hi there 👋</h1>
-<p align="justify">Hello, my name it's Bartek and I'm self taught beginner programmer</p>
+<p align="justify">Hello, my name it's Bartek and I'm self taught programmer.</p>
 <p align="justify">My interest in programming began in 2023. I started with Python and with friends we started project named Lamprey. That was a hard project for me, begginer. </p>
 <p align="justify">Since February 2024 I’ve been dedicating all my free time to improving my programming skills and building personal projects.</p>
 <p align="justify">Although I haven’t pursued a formal degree, I actively study computer science theory because I believe it's the foundation of strong software development.</p>
@@ -9,7 +9,7 @@
 <b>Check my new repository</b>
 https://github.com/PrzybyszB/Scheduler
 
-My "side-quest goal" is to program 24h per week
+My "side-quest goal" is to program 24h per week.
 
 <h1 align="center">PLANS TO SELF DEVELOP 💡</h1>
 <img src="https://github.com/PrzybyszB/PrzybyszB/blob/main/Me1.png" align="right" width="300" alt="Your Image Description">
