@@ -8,12 +8,18 @@
 
 <b>Check my new repository</b>
 https://github.com/PrzybyszB/Scheduler
+![LeetCode](https://leetcard.jacoblin.cool/ly4DFRPjQ2)
+![HackerRank] (https://www.hackerrank.com/profile/bartass97)
+![SQL](https://img.shields.io/badge/SQL-Gold★-FFD700?style=for-the-badge&logo=mysql&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Silver★★★-C0C0C0?style=for-the-badge&logo=python&logoColor=black)
+
+
 
 <h1 align="center">PLANS TO SELF DEVELOP 💡</h1>
 <img src="https://github.com/PrzybyszB/PrzybyszB/blob/main/Me1.png" align="right" width="300" alt="Your Image Description">
-<li>Build job WebScrapper</li>
+<li>Solve LeetCode and Hackerrank problems</li>
 <li>Improve Scheduler in concept of Data Engineering</li>
-<li>Build Docker</li>
+<li>Build job WebScrapper</li>
 <p></p>
 
 <h3>What I have done ✔️(Personal Changelog)</h3>
