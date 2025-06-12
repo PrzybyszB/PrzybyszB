@@ -8,8 +8,9 @@
 
 <b>Check my new repository</b>
 https://github.com/PrzybyszB/Scheduler
-![LeetCode](https://leetcard.jacoblin.cool/ly4DFRPjQ2)
-![HackerRank] (https://www.hackerrank.com/profile/bartass97)
+<p></p>
+![LeetCode](https://leetcard.jacoblin.cool/ly4DFRPjQ2) ![SQL](https://img.shields.io/badge/SQL-Gold★-FFD700?style=for-the-badge&logo=mysql&logoColor=black) ![Python](https://img.shields.io/badge/Python-Silver★★★-C0C0C0?style=for-the-badge&logo=python&logoColor=black)
+!(https://www.hackerrank.com/profile/bartass97)
 ![SQL](https://img.shields.io/badge/SQL-Gold★-FFD700?style=for-the-badge&logo=mysql&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-Silver★★★-C0C0C0?style=for-the-badge&logo=python&logoColor=black)
 
