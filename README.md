@@ -10,11 +10,18 @@ https://github.com/PrzybyszB/Scheduler
 
 ### 🔗 Profile codingowe
 
-[![LeetCode](https://leetcard.jacoblin.cool/ly4DFRPjQ2)](https://leetcode.com/ly4DFRPjQ2)
-
-- 🧩 [HackerRank Profile](https://www.hackerrank.com/profile/bartass97)
-![SQL](https://img.shields.io/badge/SQL-Gold★-FFD700?style=for-the-badge&logo=mysql&logoColor=black)
-![Python](https://img.shields.io/badge/Python-Silver★★★-C0C0C0?style=for-the-badge&logo=python&logoColor=black)
+<table>
+  <tr>
+    <td align="left">
+      <b>🧩 <a href="https://www.hackerrank.com/profile/bartass97">HackerRank Profile</a></b>
+    </td>
+    <td align="right">
+      <a href="https://leetcode.com/ly4DFRPjQ2">
+        <img src="https://leetcard.jacoblin.cool/ly4DFRPjQ2" alt="LeetCode" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <h1 align="center">PLANS TO SELF DEVELOP 💡</h1>
