@@ -5,14 +5,16 @@
 <p align="justify">Although I haven’t pursued a formal degree, I actively study computer science theory because I believe it's the foundation of strong software development.</p>
 <p align="justify"><b>MY GOAL: TO BECOME A FULL-TIME PYTHON DEVELOPER</b></p>
 
-
 <b>Check my new repository</b>
 https://github.com/PrzybyszB/Scheduler
-![LeetCode](https://leetcard.jacoblin.cool/ly4DFRPjQ2)
-[HackerRank Profile](https://www.hackerrank.com/profile/bartass97)
+
+### 🔗 Profile codingowe
+
+[![LeetCode](https://leetcard.jacoblin.cool/ly4DFRPjQ2)](https://leetcode.com/ly4DFRPjQ2)
+
+- 🧩 [HackerRank Profile](https://www.hackerrank.com/profile/bartass97)
 ![SQL](https://img.shields.io/badge/SQL-Gold★-FFD700?style=for-the-badge&logo=mysql&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-Silver★★★-C0C0C0?style=for-the-badge&logo=python&logoColor=black)
-
 
 
 <h1 align="center">PLANS TO SELF DEVELOP 💡</h1>
