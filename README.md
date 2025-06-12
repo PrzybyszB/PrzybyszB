@@ -14,6 +14,8 @@ https://github.com/PrzybyszB/Scheduler
   <tr>
     <td align="left">
       <b>🧩 <a href="https://www.hackerrank.com/profile/bartass97">HackerRank Profile</a></b>
+      ![SQL](https://img.shields.io/badge/SQL-Gold★-FFD700?style=for-the-badge&logo=mysql&logoColor=black)
+      ![Python](https://img.shields.io/badge/Python-Silver★★★-C0C0C0?style=for-the-badge&logo=python&logoColor=black)
     </td>
     <td align="right">
       <a href="https://leetcode.com/ly4DFRPjQ2">
