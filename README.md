@@ -7,9 +7,6 @@
 
 <b>Check my new repository</b>
 https://github.com/PrzybyszB/Scheduler
-
-### 🔗 Profile codingowe
-
 <table>
   <tr>
     <td align="left" valign="top">
