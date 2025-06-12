@@ -16,7 +16,7 @@ https://github.com/PrzybyszB/Scheduler
     </td>
     <td align="left" valign="top">
       <b>🧩 <a href="https://www.hackerrank.com/profile/bartass97">HackerRank Profile</a></b><br><br>
-      <img src="https://img.shields.io/badge/SQL-Gold★-FFD700?style=for-the-badge&logo=mysql&logoColor=black" alt="SQL Badge" />
+      <img src="https://img.shields.io/badge/SQL-Gold★★★★★-FFD700?style=for-the-badge&logo=mysql&logoColor=black" alt="SQL Badge" />
       <br>
       <img src="https://img.shields.io/badge/Python-Silver★★★-C0C0C0?style=for-the-badge&logo=python&logoColor=black" alt="Python Badge" />
     </td>
