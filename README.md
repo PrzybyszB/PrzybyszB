@@ -26,7 +26,7 @@ https://github.com/PrzybyszB/Scheduler
 
 <h1 align="center">PLANS TO SELF DEVELOP 💡</h1>
 <img src="https://github.com/PrzybyszB/PrzybyszB/blob/main/Me1.png" align="right" width="300" alt="Your Image Description">
-<li>Solve LeetCode and Hackerrank problems</li>
+<li>Solve LeetCode and Hackerrank problems SQL & Python</li>
 <li>Improve Scheduler in concept of Data Engineering</li>
 <li>Build job WebScrapper</li>
 <p></p>
@@ -38,7 +38,7 @@ https://github.com/PrzybyszB/Scheduler
 <li>Many tutorials on youtube like HarvardCS50, Codemy, BroCode 07.2023 -02.2024</li> 
 <p></p>
 <p>📚 In the meantime its theory time:</p> 
-<p>1. I’m currently learning about Data Engineering</p> 
+<p>1. I’m currently learning about <b>Data Engineering</b></p> 
 
 My notes based on a wide range of sources <a href="https://incredible-wasabi-771.notion.site/Programowanie-Teoria-1f3b80a2c0a480d099afe6f7eb6806fb">GRIMOIRE<a/>
 
