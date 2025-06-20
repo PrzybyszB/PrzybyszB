@@ -40,7 +40,7 @@ https://github.com/PrzybyszB/Scheduler
 <p>📚 In the meantime its theory time:</p> 
 <p>1. I’m currently learning about <b>Data Engineering</b></p> 
 
-My notes based on a wide range of sources <a href="https://incredible-wasabi-771.notion.site/Programowanie-Teoria-1f3b80a2c0a480d099afe6f7eb6806fb">GRIMOIRE<a/>
+My notes based on a wide range of sources <a href="https://docs.google.com/document/d/1ZEU8l8aVhU-yG4qVgl3a3WDCU77Wpj2uwcy02FELhhg/edit?tab=t.0">GRIMOIRE<a/>
 
 <h2>Hobby</h2>
 <li>🖥️ Programming, it's just full of pleasure (🐛)</li>
