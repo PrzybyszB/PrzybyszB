@@ -27,18 +27,20 @@ https://github.com/PrzybyszB/Scheduler
 <h1 align="center">PLANS TO SELF DEVELOP 💡</h1>
 <img src="https://github.com/PrzybyszB/PrzybyszB/blob/main/Me1.png" align="right" width="300" alt="Your Image Description">
 <li>Solve LeetCode and Hackerrank problems SQL & Python</li>
+<li>Solve Data Engineer problems create by ChatGPT</li>
 <li>Improve Scheduler in concept of Data Engineering</li>
 <li>Build job WebScrapper</li>
 <p></p>
 
 <h3>What I have done ✔️(Personal Changelog)</h3>
+<li>Data Engineering problems + theory 06.2025 - today</li>
 <li>Polishing theory fundamental in computer science and programming 02.2025 - 05.2025</li>
 <li>First site with Django named Scheduler 05.2024 - 02.2025</li> 
 <li>First site with Flask named SklepZoo 02.2024 - 05.2024</li> 
 <li>Many tutorials on youtube like HarvardCS50, Codemy, BroCode 07.2023 -02.2024</li> 
 <p></p>
 <p>📚 In the meantime its theory time:</p> 
-<p>1. I’m currently learning about <b>Data Engineering</b></p> 
+<p>1. I’m currently learning about <b>Data Engineering/Cloud Concepts</b></p> 
 
 My notes based on a wide range of sources <a href="https://docs.google.com/document/d/1ZEU8l8aVhU-yG4qVgl3a3WDCU77Wpj2uwcy02FELhhg/edit?tab=t.0">GRIMOIRE<a/>
 
