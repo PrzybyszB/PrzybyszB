@@ -25,14 +25,16 @@ https://github.com/PrzybyszB/Scheduler
 
 <h1 align="center">PLANS TO SELF DEVELOP 💡</h1>
 <img src="https://github.com/PrzybyszB/PrzybyszB/blob/main/Me1.png" align="right" width="300" alt="Your Image Description">
-<li>Solve LeetCode and Hackerrank problems SQL & Python</li>
-<li>Solve Data Engineer problems create by ChatGPT</li>
-<li>Improve Scheduler in concept of Data Engineering</li>
-<li>Build job WebScrapper</li>
+<li>Build Dietic ChatGPT (app to guide people about healthy diets)</li>
+<li>Solve LeetCode and Hackerrank problems SQL & Python (on hold)</li>
+<li>Solve Data Engineer problems create by ChatGPT (on hold)</li>
+<li>Improve Scheduler in concept of Data Engineering (on hold)</li>
 <p></p>
 
 <h3>What I have done ✔️(Personal Changelog)</h3>
-<li>Data Engineering problems + theory 06.2025 - today</li>
+<li>Studies Big Data - Analytics & Society on Collegium Da Vinci 11.2025 - today</li>
+<li>Epam systems, Self-Peaced Program - Data software Engineering 10.2025 - today</li>
+<li>Data Engineering problems + theory 06.2025 - 08.2025</li>
 <li>Polishing theory fundamental in computer science and programming 02.2025 - 05.2025</li>
 <li>First site with Django named Scheduler 05.2024 - 02.2025</li> 
 <li>First site with Flask named SklepZoo 02.2024 - 05.2024</li> 
