@@ -25,7 +25,7 @@ https://github.com/PrzybyszB/Scheduler
 
 <h1 align="center">PLANS TO SELF DEVELOP 💡</h1>
 <img src="https://github.com/PrzybyszB/PrzybyszB/blob/main/Me1.png" align="right" width="300" alt="Your Image Description">
-<li>Build Dietic ChatGPT (app to guide people about healthy diets)</li>
+<li>Build a system for analyzing and reporting population diet using AI to synthesize knowledge from scientific literature </li>
 <li>Solve LeetCode and Hackerrank problems SQL & Python (on hold)</li>
 <li>Solve Data Engineer problems create by ChatGPT (on hold)</li>
 <li>Improve Scheduler in concept of Data Engineering (on hold)</li>
