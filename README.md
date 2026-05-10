@@ -40,9 +40,7 @@ https://github.com/PrzybyszB/Scheduler
 <li>First site with Flask named SklepZoo 02.2024 - 05.2024</li> 
 <li>Many tutorials on youtube like HarvardCS50, Codemy, BroCode 07.2023 -02.2024</li> 
 <p></p>
-<p>📚 In the meantime its theory time:</p> 
-<p>1. I’m currently learning about <b>Data Engineering/Cloud Concepts</b></p> 
-
+<p>📚 In the meantime its theory time</p> 
 My notes based on a wide range of sources <a href="https://docs.google.com/document/d/1ZEU8l8aVhU-yG4qVgl3a3WDCU77Wpj2uwcy02FELhhg/edit?tab=t.0">GRIMOIRE<a/>
 
 <h2>Hobby</h2>
